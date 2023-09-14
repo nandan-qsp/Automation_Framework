@@ -8,9 +8,9 @@ public class LoginTest {
 	
 	@Test
 	public void loginTest() {
-		WebDriver driver=new ChromeDriver();
+		
 		System.out.println("Logged in Suucessfully");
-		driver.quit();
+		
 	}
 
 }

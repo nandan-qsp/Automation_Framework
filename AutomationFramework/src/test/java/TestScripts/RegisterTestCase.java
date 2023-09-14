@@ -7,11 +7,11 @@ import org.testng.annotations.Test;
 public class RegisterTestCase {
 	@Test
 	public void registerTestCase() {
-		WebDriver driver =new ChromeDriver();
+		
 		
 		System.out.println("Registration succesfull");
 		
-		driver.quit();
+		
 	}
 
 }

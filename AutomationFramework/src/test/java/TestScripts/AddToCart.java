@@ -8,11 +8,10 @@ public class AddToCart {
 
 	@Test
 	public void addToCart() {
-		WebDriver driver =new ChromeDriver();
+		
 		
 		System.out.println("Item added to cart");
 		
-		driver.quit();
+		
 	}
-
 }
